@@ -8,3 +8,7 @@ My 365-day journey to build consistent coding skills, strengthen DSA and develop
 - GitHub setup completed
 - VS Code connected with GitHub
 - LeetCode account created
+
+## My Goal
+
+Build consistent coding skills for 365 days and become ready for a better software development career.
