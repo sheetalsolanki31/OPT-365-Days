@@ -6,28 +6,28 @@ Start my OPT-365-Days coding journey and build a strong foundation in Python.
 
 ## 📚 Topics
 
-- Introduction to Python
-- Variables
-- Data Types
-- print() function
-- User Input
-- Basic Operators
+- Introduction to Python - done
+- Variables - done
+- Data Types - done
+- print() function -done
+- User Input -done
+- Basic Operators -done
 
 ## 💻 Practice
 
 Today I will practice basic Python concepts and write simple programs to understand how Python works.
 
 ## 📝 What I Learned
-
+i learned how print and input function works ,how to define variable,find typre of a varaible,basic operators,data types...
 - 
 
 ## 🧩 Problems Solved
-
+none
 - 
 
 ## 💡 Key Takeaways
 
-- 
+- nill
 
 ## 🔄 Reflection
 
